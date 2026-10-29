@@ -2,11 +2,7 @@
 
 Capstone project for the Deep Learning course. A small multilayer perceptron, written and
 trained from scratch, classifies penguins into **Adelie / Chinstrap / Gentoo** from four body
-measurements plus island and sex. It is evaluated on a held-out test set against two baselines
-(majority class and logistic regression), with an honest look at where it fails.
-
-- Report (PDF): `[add link or file name]`
-- Demo (runnable Colab): `[add Colab link]`
+measurements plus island and sex.
 
 ## Data
 
